@@ -34,7 +34,7 @@ while running:
         time.sleep(1 #1 seconde pauze)
 
     result = input("Druk op Enter om nog een keer te checken, of X om te stoppen\n\n")
-    if(result.upper() == "X"):
+    if(result.upper() == "P"):
         running = False
 
         #test
